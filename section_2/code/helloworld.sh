@@ -2,4 +2,4 @@
 echo "Hello World"
 uptime
 echo "Below is a top commands outpu"
-top
+ping -c 3 google.com
